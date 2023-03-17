@@ -10,6 +10,7 @@ Very basic list to start with.
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ## Web3
+* [ProtocolLabs Launchpad](https://curriculum.pl-launchpad.io/curriculum/) - is a web3 educational program for any new/recent hires of PLN teams
 * [Use Web3 resources](https://www.useweb3.xyz)
 * [Web 3 by Vastrik (IN RUSSIAN)](https://vas3k.ru/blog/web3/)
 * [Unstoppable Web by Vastrik (IN RUSSIAN)](https://vas3k.ru/blog/unstoppable_web/)
@@ -23,7 +24,6 @@ The best starting point for any Ethereum dev.
 ## Consensus algorithms
 * [1-consensus.md](1-basics/1-consensus.md) Basic comparison of PBFT, PoW, PoA, PoS consensuses. 
 * [Ethereum 2.0 hybrid consensus algorithm proposal: GHOST + Casper](https://blog.ethereum.org/2020/02/12/validated-staking-on-eth2-2-two-ghosts-in-a-trench-coat) Gasper features a hybrid consensus that tries to add an extra finality to the highly-available "heaviest chain wins" consensus.
-
 
 ## Data structures
 * [Merkle Trees (by Consensys)](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3) Basic data structure that is widely used in crypto.
