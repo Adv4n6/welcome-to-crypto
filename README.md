@@ -1,10 +1,7 @@
 # Welcome to Crypto (by [Anytype](https://anytype.io))
-This is a curated list of different crypto resources that will help you dive into the Crypto space.
+This is a curated list of various crypto resources that will help you explore the world of Crypto.
 
-**Beware**: it's mainly an Ethereum-centric list of resources. And it is for super beginners only!
-
-## Curators
-* [Anton Kent](http://github.com/AnthonyAkentiev)
+**Beware**: it mainly focuses on Ethereum and is intended for beginners.
 
 ## Best podcasts 
 1. [Bankless podcast](http://podcast.banklesshq.com)
@@ -26,7 +23,6 @@ This is a curated list of different crypto resources that will help you dive int
 
 ## Where to go in crypto (for devs)? 
 ![Where to go in crypto](where_to_go_in_crypto.jpg)
-
 
 ## Major crypto projects
 ![Major crypto projects](major_crypto_projects.jpg)
